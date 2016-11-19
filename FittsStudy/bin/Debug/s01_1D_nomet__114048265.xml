@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Fitts_Study subject="1" circular="false" metronome="false" conditions="2" MTPct="[]" A="[512]" W="[8,128]" intercept="100" slope="200" screen="{X=0,Y=0,Width=1366,Height=768}" version="4.2.4.0" date="March 3, 2016" timeOfDay="20:47:42">
+  <Condition block="0" index="0" circular="false" metronome="false" trials="3" completed="0" practice="0" test="3" MTPct="-1" MTPred="-1" MT="-1" A="512" W="8" ID="6.0224" Ae_1d="0" SD_1d="0" We_1d="0" IDe_1d="0" TP_1d="0" Ae_2d="0" SD_2d="0" We_2d="0" IDe_2d="0" TP_2d="0" MTe="0" MTe_sx="0" MTe_tx="0" errors="0" errors_sx="0" errors_tx="0" errorPct="0" errorPct_sx="0" errorPct_tx="0" spatialOutliers="0" temporalOutliers="0">
+    <Trial number="1" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=423,Y=0,Width=8,Height=768}" thisRect="{X=935,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="0" angle="0" ae_1d="0" dx_1d="-939" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="2" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=935,Y=0,Width=8,Height=768}" thisRect="{X=423,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="180" angle="0" ae_1d="0" dx_1d="427" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="3" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=423,Y=0,Width=8,Height=768}" thisRect="{X=935,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="0" angle="0" ae_1d="0" dx_1d="-939" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+  </Condition>
+  <Fitts_Model applicable="true" N="2" MT="0">
+    <Univariate_Model applicable="true" TP_avg="0" TP_inv="NaN" regression="MT = NaN + NaN * IDe" a="NaN" b="NaN" r="NaN" />
+    <Bivariate_Model applicable="false" TP_avg="0" TP_inv="0" regression="MT = 0 + 0 * IDe" a="0" b="0" r="0" />
+  </Fitts_Model>
+  <Pointing_Error_Model applicable="false" N="2" ErrorPct="0">
+    <Univariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-NaN)/NaN) - 1)) / sqrt(2)]" regression="Observed = NaN * Predicted + NaN" m="NaN" b="NaN" r="NaN" />
+    <Bivariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-0)/0) - 1)) / sqrt(2)]" regression="Observed = 0 * Predicted + 0" m="0" b="0" r="0" />
+  </Pointing_Error_Model>
+</Fitts_Study>

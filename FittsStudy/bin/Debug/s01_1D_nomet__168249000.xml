@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Fitts_Study subject="1" circular="false" metronome="false" conditions="2" MTPct="[]" A="[512]" W="[8,128]" intercept="100" slope="200" screen="{X=0,Y=0,Width=1366,Height=768}" version="4.2.4.0" date="March 4, 2016" timeOfDay="11:51:03">
+  <Condition block="0" index="0" circular="false" metronome="false" trials="3" completed="3" practice="0" test="3" MTPct="-1" MTPred="-1" MT="-1" A="512" W="128" ID="2.3219" Ae_1d="471.6667" SD_1d="14.4222" We_1d="59.607" IDe_1d="3.1559" TP_1d="1.4424" Ae_2d="0" SD_2d="0" We_2d="0" IDe_2d="0" TP_2d="0" MTe="2188" MTe_sx="2188" MTe_tx="2188" errors="0" errors_sx="0" errors_tx="0" errorPct="0" errorPct_sx="0" errorPct_tx="0" spatialOutliers="0" temporalOutliers="0">
+    <Trial number="1" circular="false" metronome="false" completed="true" practice="false" lastRect="{X=363,Y=0,Width=128,Height=768}" thisRect="{X=875,Y=0,Width=128,Height=768}" MT="-1" A="512" W="128" axis="0" angle="0.4785" ae_1d="479" dx_1d="-33" ae_2d="0" dx_2d="0" MTe="1603" MTRatio="-1" entries="1" overshoots="0" error="false" spatialOutlier="false" temporalOutlier="false" start="{X=427,Y=390,Time=0}" end="{X=906,Y=394,Time=1603}">
+      <Movement count="61" travel="479.8828" duration="862" submovements="3" maxVelocity="{X=480, Y=4.33196}" maxAcceleration="{X=480, Y=0.2805175}" maxJerk="{X=500, Y=0.03041398}" taskAxisCrossings="1" movementDirectionChanges="1" orthogonalDirectionChanges="0" movementVariability="2.1034" movementError="1.8616" movementOffset="-1.1614">
+        <move index="0" point="{X=427,Y=390,Time=78}" />
+        <move index="1" point="{X=433,Y=390,Time=474}" />
+        <move index="2" point="{X=438,Y=390,Time=480}" />
+        <move index="3" point="{X=444,Y=390,Time=488}" />
+        <move index="4" point="{X=451,Y=390,Time=496}" />
+        <move index="5" point="{X=459,Y=390,Time=504}" />
+        <move index="6" point="{X=468,Y=390,Time=512}" />
+        <move index="7" point="{X=477,Y=390,Time=520}" />
+        <move index="8" point="{X=487,Y=390,Time=528}" />
+        <move index="9" point="{X=499,Y=390,Time=536}" />
+        <move index="10" point="{X=509,Y=390,Time=543}" />
+        <move index="11" point="{X=522,Y=390,Time=551}" />
+        <move index="12" point="{X=559,Y=390,Time=557}" />
+        <move index="13" point="{X=572,Y=389,Time=566}" />
+        <move index="14" point="{X=587,Y=389,Time=574}" />
+        <move index="15" point="{X=600,Y=388,Time=582}" />
+        <move index="16" point="{X=613,Y=388,Time=590}" />
+        <move index="17" point="{X=625,Y=386,Time=598}" />
+        <move index="18" point="{X=636,Y=385,Time=605}" />
+        <move index="19" point="{X=646,Y=385,Time=614}" />
+        <move index="20" point="{X=654,Y=385,Time=622}" />
+        <move index="21" point="{X=663,Y=385,Time=630}" />
+        <move index="22" point="{X=671,Y=385,Time=636}" />
+        <move index="23" point="{X=685,Y=385,Time=643}" />
+        <move index="24" point="{X=688,Y=385,Time=651}" />
+        <move index="25" point="{X=694,Y=385,Time=659}" />
+        <move index="26" point="{X=700,Y=385,Time=668}" />
+        <move index="27" point="{X=705,Y=385,Time=676}" />
+        <move index="28" point="{X=709,Y=385,Time=684}" />
+        <move index="29" point="{X=713,Y=385,Time=692}" />
+        <move index="30" point="{X=717,Y=385,Time=698}" />
+        <move index="31" point="{X=728,Y=385,Time=706}" />
+        <move index="32" point="{X=735,Y=385,Time=714}" />
+        <move index="33" point="{X=743,Y=385,Time=722}" />
+        <move index="34" point="{X=751,Y=386,Time=730}" />
+        <move index="35" point="{X=759,Y=386,Time=738}" />
+        <move index="36" point="{X=767,Y=387,Time=746}" />
+        <move index="37" point="{X=775,Y=387,Time=754}" />
+        <move index="38" point="{X=781,Y=388,Time=762}" />
+        <move index="39" point="{X=788,Y=389,Time=770}" />
+        <move index="40" point="{X=793,Y=389,Time=778}" />
+        <move index="41" point="{X=800,Y=389,Time=784}" />
+        <move index="42" point="{X=808,Y=389,Time=792}" />
+        <move index="43" point="{X=817,Y=390,Time=800}" />
+        <move index="44" point="{X=828,Y=391,Time=808}" />
+        <move index="45" point="{X=839,Y=391,Time=816}" />
+        <move index="46" point="{X=850,Y=393,Time=823}" />
+        <move index="47" point="{X=859,Y=393,Time=832}" />
+        <move index="48" point="{X=873,Y=394,Time=841}" />
+        <move index="49" point="{X=880,Y=394,Time=846}" />
+        <move index="50" point="{X=887,Y=394,Time=854}" />
+        <move index="51" point="{X=891,Y=394,Time=862}" />
+        <move index="52" point="{X=894,Y=394,Time=870}" />
+        <move index="53" point="{X=897,Y=394,Time=878}" />
+        <move index="54" point="{X=898,Y=394,Time=885}" />
+        <move index="55" point="{X=900,Y=394,Time=893}" />
+        <move index="56" point="{X=902,Y=394,Time=902}" />
+        <move index="57" point="{X=903,Y=394,Time=910}" />
+        <move index="58" point="{X=904,Y=394,Time=918}" />
+        <move index="59" point="{X=905,Y=394,Time=932}" />
+        <move index="60" point="{X=906,Y=394,Time=940}" />
+      </Movement>
+    </Trial>
+    <Trial number="2" circular="false" metronome="false" completed="true" practice="false" lastRect="{X=875,Y=0,Width=128,Height=768}" thisRect="{X=363,Y=0,Width=128,Height=768}" MT="-1" A="512" W="128" axis="180" angle="183.6549" ae_1d="454" dx_1d="-25" ae_2d="0" dx_2d="0" MTe="2229" MTRatio="-1" entries="1" overshoots="0" error="false" spatialOutlier="false" temporalOutlier="false" start="{X=906,Y=394,Time=0}" end="{X=452,Y=365,Time=2229}">
+      <Movement count="56" travel="457.8997" duration="1255" submovements="2" maxVelocity="{X=900, Y=3.520831}" maxAcceleration="{X=850, Y=0.1084991}" maxJerk="{X=930, Y=0.01465899}" taskAxisCrossings="2" movementDirectionChanges="1" orthogonalDirectionChanges="0" movementVariability="9.0594" movementError="5.6783" movementOffset="5.6623">
+        <move index="0" point="{X=906,Y=394,Time=78}" />
+        <move index="1" point="{X=903,Y=395,Time=910}" />
+        <move index="2" point="{X=897,Y=395,Time=918}" />
+        <move index="3" point="{X=882,Y=395,Time=927}" />
+        <move index="4" point="{X=869,Y=395,Time=934}" />
+        <move index="5" point="{X=854,Y=393,Time=942}" />
+        <move index="6" point="{X=831,Y=391,Time=951}" />
+        <move index="7" point="{X=806,Y=390,Time=958}" />
+        <move index="8" point="{X=776,Y=388,Time=967}" />
+        <move index="9" point="{X=748,Y=388,Time=973}" />
+        <move index="10" point="{X=729,Y=388,Time=981}" />
+        <move index="11" point="{X=702,Y=388,Time=989}" />
+        <move index="12" point="{X=693,Y=388,Time=997}" />
+        <move index="13" point="{X=684,Y=387,Time=1005}" />
+        <move index="14" point="{X=676,Y=387,Time=1013}" />
+        <move index="15" point="{X=667,Y=386,Time=1021}" />
+        <move index="16" point="{X=656,Y=385,Time=1029}" />
+        <move index="17" point="{X=644,Y=384,Time=1037}" />
+        <move index="18" point="{X=631,Y=383,Time=1043}" />
+        <move index="19" point="{X=619,Y=382,Time=1051}" />
+        <move index="20" point="{X=603,Y=382,Time=1059}" />
+        <move index="21" point="{X=596,Y=382,Time=1067}" />
+        <move index="22" point="{X=589,Y=382,Time=1075}" />
+        <move index="23" point="{X=585,Y=382,Time=1082}" />
+        <move index="24" point="{X=582,Y=381,Time=1091}" />
+        <move index="25" point="{X=578,Y=381,Time=1098}" />
+        <move index="26" point="{X=574,Y=380,Time=1107}" />
+        <move index="27" point="{X=569,Y=379,Time=1114}" />
+        <move index="28" point="{X=558,Y=377,Time=1121}" />
+        <move index="29" point="{X=551,Y=375,Time=1129}" />
+        <move index="30" point="{X=545,Y=375,Time=1136}" />
+        <move index="31" point="{X=538,Y=375,Time=1145}" />
+        <move index="32" point="{X=534,Y=375,Time=1152}" />
+        <move index="33" point="{X=530,Y=375,Time=1161}" />
+        <move index="34" point="{X=527,Y=375,Time=1169}" />
+        <move index="35" point="{X=525,Y=375,Time=1177}" />
+        <move index="36" point="{X=519,Y=374,Time=1185}" />
+        <move index="37" point="{X=517,Y=374,Time=1190}" />
+        <move index="38" point="{X=514,Y=373,Time=1198}" />
+        <move index="39" point="{X=511,Y=373,Time=1207}" />
+        <move index="40" point="{X=507,Y=372,Time=1215}" />
+        <move index="41" point="{X=503,Y=370,Time=1223}" />
+        <move index="42" point="{X=498,Y=369,Time=1231}" />
+        <move index="43" point="{X=494,Y=369,Time=1239}" />
+        <move index="44" point="{X=486,Y=368,Time=1247}" />
+        <move index="45" point="{X=480,Y=368,Time=1254}" />
+        <move index="46" point="{X=475,Y=368,Time=1263}" />
+        <move index="47" point="{X=468,Y=368,Time=1269}" />
+        <move index="48" point="{X=461,Y=367,Time=1277}" />
+        <move index="49" point="{X=458,Y=367,Time=1284}" />
+        <move index="50" point="{X=456,Y=366,Time=1293}" />
+        <move index="51" point="{X=455,Y=366,Time=1301}" />
+        <move index="52" point="{X=454,Y=366,Time=1308}" />
+        <move index="53" point="{X=453,Y=366,Time=1316}" />
+        <move index="54" point="{X=453,Y=365,Time=1325}" />
+        <move index="55" point="{X=452,Y=365,Time=1333}" />
+      </Movement>
+    </Trial>
+    <Trial number="3" circular="false" metronome="false" completed="true" practice="false" lastRect="{X=363,Y=0,Width=128,Height=768}" thisRect="{X=875,Y=0,Width=128,Height=768}" MT="-1" A="512" W="128" axis="0" angle="2.6133" ae_1d="482" dx_1d="-5" ae_2d="0" dx_2d="0" MTe="2734" MTRatio="-1" entries="1" overshoots="0" error="false" spatialOutlier="false" temporalOutlier="false" start="{X=452,Y=365,Time=0}" end="{X=934,Y=387,Time=2734}">
+      <Movement count="138" travel="485.1056" duration="2515" submovements="46" maxVelocity="{X=2280, Y=1.15}" maxAcceleration="{X=2280, Y=0.06152771}" maxJerk="{X=2280, Y=0.006011901}" taskAxisCrossings="1" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="6.3782" movementError="4.2287" movementOffset="3.36">
+        <move index="0" point="{X=452,Y=365,Time=79}" />
+        <move index="1" point="{X=453,Y=365,Time=1495}" />
+        <move index="2" point="{X=455,Y=365,Time=1504}" />
+        <move index="3" point="{X=456,Y=365,Time=1512}" />
+        <move index="4" point="{X=458,Y=365,Time=1525}" />
+        <move index="5" point="{X=459,Y=365,Time=1534}" />
+        <move index="6" point="{X=460,Y=365,Time=1542}" />
+        <move index="7" point="{X=461,Y=365,Time=1558}" />
+        <move index="8" point="{X=462,Y=365,Time=1574}" />
+        <move index="9" point="{X=465,Y=365,Time=1588}" />
+        <move index="10" point="{X=466,Y=365,Time=1596}" />
+        <move index="11" point="{X=468,Y=365,Time=1604}" />
+        <move index="12" point="{X=471,Y=365,Time=1612}" />
+        <move index="13" point="{X=472,Y=365,Time=1620}" />
+        <move index="14" point="{X=474,Y=365,Time=1628}" />
+        <move index="15" point="{X=476,Y=365,Time=1636}" />
+        <move index="16" point="{X=477,Y=365,Time=1644}" />
+        <move index="17" point="{X=481,Y=365,Time=1652}" />
+        <move index="18" point="{X=482,Y=365,Time=1660}" />
+        <move index="19" point="{X=483,Y=365,Time=1666}" />
+        <move index="20" point="{X=485,Y=365,Time=1674}" />
+        <move index="21" point="{X=486,Y=365,Time=1682}" />
+        <move index="22" point="{X=488,Y=365,Time=1690}" />
+        <move index="23" point="{X=490,Y=366,Time=1698}" />
+        <move index="24" point="{X=493,Y=366,Time=1705}" />
+        <move index="25" point="{X=497,Y=366,Time=1713}" />
+        <move index="26" point="{X=500,Y=367,Time=1722}" />
+        <move index="27" point="{X=503,Y=367,Time=1728}" />
+        <move index="28" point="{X=505,Y=367,Time=1736}" />
+        <move index="29" point="{X=508,Y=367,Time=1744}" />
+        <move index="30" point="{X=511,Y=367,Time=1752}" />
+        <move index="31" point="{X=514,Y=367,Time=1760}" />
+        <move index="32" point="{X=516,Y=367,Time=1768}" />
+        <move index="33" point="{X=522,Y=367,Time=1775}" />
+        <move index="34" point="{X=525,Y=367,Time=1783}" />
+        <move index="35" point="{X=530,Y=368,Time=1792}" />
+        <move index="36" point="{X=533,Y=368,Time=1800}" />
+        <move index="37" point="{X=536,Y=369,Time=1805}" />
+        <move index="38" point="{X=539,Y=369,Time=1814}" />
+        <move index="39" point="{X=542,Y=369,Time=1822}" />
+        <move index="40" point="{X=545,Y=369,Time=1830}" />
+        <move index="41" point="{X=548,Y=370,Time=1838}" />
+        <move index="42" point="{X=554,Y=370,Time=1846}" />
+        <move index="43" point="{X=559,Y=371,Time=1854}" />
+        <move index="44" point="{X=562,Y=371,Time=1862}" />
+        <move index="45" point="{X=566,Y=371,Time=1870}" />
+        <move index="46" point="{X=570,Y=371,Time=1875}" />
+        <move index="47" point="{X=574,Y=371,Time=1883}" />
+        <move index="48" point="{X=578,Y=371,Time=1892}" />
+        <move index="49" point="{X=582,Y=371,Time=1899}" />
+        <move index="50" point="{X=588,Y=371,Time=1908}" />
+        <move index="51" point="{X=591,Y=371,Time=1916}" />
+        <move index="52" point="{X=593,Y=371,Time=1924}" />
+        <move index="53" point="{X=595,Y=371,Time=1932}" />
+        <move index="54" point="{X=596,Y=371,Time=1940}" />
+        <move index="55" point="{X=599,Y=371,Time=1948}" />
+        <move index="56" point="{X=601,Y=372,Time=1955}" />
+        <move index="57" point="{X=604,Y=372,Time=1962}" />
+        <move index="58" point="{X=609,Y=373,Time=1969}" />
+        <move index="59" point="{X=614,Y=373,Time=1977}" />
+        <move index="60" point="{X=619,Y=374,Time=1986}" />
+        <move index="61" point="{X=624,Y=374,Time=1993}" />
+        <move index="62" point="{X=628,Y=374,Time=2002}" />
+        <move index="63" point="{X=633,Y=375,Time=2009}" />
+        <move index="64" point="{X=637,Y=375,Time=2017}" />
+        <move index="65" point="{X=640,Y=375,Time=2024}" />
+        <move index="66" point="{X=646,Y=375,Time=2033}" />
+        <move index="67" point="{X=649,Y=375,Time=2040}" />
+        <move index="68" point="{X=653,Y=375,Time=2048}" />
+        <move index="69" point="{X=658,Y=375,Time=2056}" />
+        <move index="70" point="{X=664,Y=376,Time=2064}" />
+        <move index="71" point="{X=669,Y=377,Time=2072}" />
+        <move index="72" point="{X=675,Y=377,Time=2080}" />
+        <move index="73" point="{X=680,Y=377,Time=2088}" />
+        <move index="74" point="{X=686,Y=378,Time=2096}" />
+        <move index="75" point="{X=694,Y=378,Time=2102}" />
+        <move index="76" point="{X=698,Y=378,Time=2110}" />
+        <move index="77" point="{X=701,Y=378,Time=2118}" />
+        <move index="78" point="{X=704,Y=378,Time=2126}" />
+        <move index="79" point="{X=707,Y=378,Time=2134}" />
+        <move index="80" point="{X=710,Y=378,Time=2142}" />
+        <move index="81" point="{X=713,Y=378,Time=2150}" />
+        <move index="82" point="{X=716,Y=378,Time=2158}" />
+        <move index="83" point="{X=723,Y=378,Time=2166}" />
+        <move index="84" point="{X=727,Y=378,Time=2173}" />
+        <move index="85" point="{X=733,Y=378,Time=2180}" />
+        <move index="86" point="{X=738,Y=378,Time=2188}" />
+        <move index="87" point="{X=743,Y=378,Time=2195}" />
+        <move index="88" point="{X=747,Y=378,Time=2203}" />
+        <move index="89" point="{X=751,Y=378,Time=2212}" />
+        <move index="90" point="{X=754,Y=378,Time=2220}" />
+        <move index="91" point="{X=760,Y=379,Time=2227}" />
+        <move index="92" point="{X=763,Y=379,Time=2235}" />
+        <move index="93" point="{X=767,Y=379,Time=2244}" />
+        <move index="94" point="{X=771,Y=379,Time=2252}" />
+        <move index="95" point="{X=775,Y=379,Time=2258}" />
+        <move index="96" point="{X=779,Y=379,Time=2266}" />
+        <move index="97" point="{X=783,Y=379,Time=2273}" />
+        <move index="98" point="{X=786,Y=379,Time=2282}" />
+        <move index="99" point="{X=793,Y=379,Time=2290}" />
+        <move index="100" point="{X=796,Y=379,Time=2298}" />
+        <move index="101" point="{X=799,Y=379,Time=2305}" />
+        <move index="102" point="{X=802,Y=379,Time=2313}" />
+        <move index="103" point="{X=805,Y=379,Time=2319}" />
+        <move index="104" point="{X=807,Y=379,Time=2328}" />
+        <move index="105" point="{X=811,Y=379,Time=2335}" />
+        <move index="106" point="{X=815,Y=379,Time=2344}" />
+        <move index="107" point="{X=820,Y=379,Time=2352}" />
+        <move index="108" point="{X=831,Y=379,Time=2360}" />
+        <move index="109" point="{X=838,Y=379,Time=2367}" />
+        <move index="110" point="{X=843,Y=379,Time=2375}" />
+        <move index="111" point="{X=847,Y=379,Time=2383}" />
+        <move index="112" point="{X=852,Y=379,Time=2391}" />
+        <move index="113" point="{X=856,Y=379,Time=2397}" />
+        <move index="114" point="{X=860,Y=379,Time=2405}" />
+        <move index="115" point="{X=865,Y=380,Time=2414}" />
+        <move index="116" point="{X=875,Y=380,Time=2422}" />
+        <move index="117" point="{X=879,Y=381,Time=2430}" />
+        <move index="118" point="{X=882,Y=382,Time=2438}" />
+        <move index="119" point="{X=886,Y=382,Time=2446}" />
+        <move index="120" point="{X=889,Y=383,Time=2453}" />
+        <move index="121" point="{X=894,Y=383,Time=2462}" />
+        <move index="122" point="{X=898,Y=384,Time=2467}" />
+        <move index="123" point="{X=902,Y=384,Time=2475}" />
+        <move index="124" point="{X=907,Y=384,Time=2483}" />
+        <move index="125" point="{X=911,Y=384,Time=2492}" />
+        <move index="126" point="{X=913,Y=384,Time=2500}" />
+        <move index="127" point="{X=916,Y=384,Time=2508}" />
+        <move index="128" point="{X=918,Y=384,Time=2516}" />
+        <move index="129" point="{X=920,Y=384,Time=2524}" />
+        <move index="130" point="{X=922,Y=385,Time=2532}" />
+        <move index="131" point="{X=924,Y=385,Time=2540}" />
+        <move index="132" point="{X=927,Y=386,Time=2546}" />
+        <move index="133" point="{X=929,Y=386,Time=2553}" />
+        <move index="134" point="{X=931,Y=387,Time=2561}" />
+        <move index="135" point="{X=932,Y=387,Time=2570}" />
+        <move index="136" point="{X=933,Y=387,Time=2578}" />
+        <move index="137" point="{X=934,Y=387,Time=2594}" />
+      </Movement>
+    </Trial>
+  </Condition>
+  <Condition block="0" index="1" circular="false" metronome="false" trials="3" completed="0" practice="0" test="3" MTPct="-1" MTPred="-1" MT="-1" A="512" W="8" ID="6.0224" Ae_1d="0" SD_1d="0" We_1d="0" IDe_1d="0" TP_1d="0" Ae_2d="0" SD_2d="0" We_2d="0" IDe_2d="0" TP_2d="0" MTe="0" MTe_sx="0" MTe_tx="0" errors="0" errors_sx="0" errors_tx="0" errorPct="0" errorPct_sx="0" errorPct_tx="0" spatialOutliers="0" temporalOutliers="0">
+    <Trial number="1" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=423,Y=0,Width=8,Height=768}" thisRect="{X=935,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="0" angle="0" ae_1d="0" dx_1d="-939" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="2" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=935,Y=0,Width=8,Height=768}" thisRect="{X=423,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="180" angle="0" ae_1d="0" dx_1d="427" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="3" circular="false" metronome="false" completed="false" practice="false" lastRect="{X=423,Y=0,Width=8,Height=768}" thisRect="{X=935,Y=0,Width=8,Height=768}" MT="-1" A="512" W="8" axis="0" angle="0" ae_1d="0" dx_1d="-939" ae_2d="0" dx_2d="0" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+  </Condition>
+  <Fitts_Model applicable="true" N="2" MT="1094">
+    <Univariate_Model applicable="true" TP_avg="0.7212" TP_inv="1.4424" regression="MT = 0 + 693.3041 * IDe" a="-0" b="693.3041" r="1" />
+    <Bivariate_Model applicable="false" TP_avg="0" TP_inv="0" regression="MT = 0 + 0 * IDe" a="0" b="0" r="0" />
+  </Fitts_Model>
+  <Pointing_Error_Model applicable="false" N="2" ErrorPct="0">
+    <Univariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-0)/693.3041) - 1)) / sqrt(2)]" regression="Observed = 0 * Predicted + 0" m="0" b="0" r="NaN" />
+    <Bivariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-0)/0) - 1)) / sqrt(2)]" regression="Observed = 0 * Predicted + 0" m="0" b="0" r="0" />
+  </Pointing_Error_Model>
+</Fitts_Study>

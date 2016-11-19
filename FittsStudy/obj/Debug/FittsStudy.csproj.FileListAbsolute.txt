@@ -1,0 +1,16 @@
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\bin\Debug\FittsStudy.exe
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\bin\Debug\FittsStudy.pdb
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\bin\Debug\WobbrockLib.pdb
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.csprojResolveAssemblyReference.cache
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.MainForm.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.OptionsForm.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.Properties.Resources.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.ModelForm.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.AboutBox.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.MessageBanner.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.GraphForm.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.LogForm.resources
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.csproj.GenerateResource.Cache
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.exe
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\obj\Debug\FittsStudy.pdb
+C:\Users\horod_000\SkyDrive\McGill\Research\Wobbrock\FittsStudy\FittsStudy\bin\Debug\FittsStudy.exe.config

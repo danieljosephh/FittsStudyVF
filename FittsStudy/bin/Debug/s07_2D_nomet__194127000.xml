@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Fitts_Study subject="7" circular="true" metronome="false" conditions="3" MTPct="[]" A="[600]" W="[24,64,128]" intercept="100" slope="200" screen="{X=0,Y=0,Width=1920,Height=1080}" version="4.2.4.0" date="April 6, 2016" timeOfDay="14:46:37">
+  <Condition block="0" index="0" circular="true" metronome="false" trials="5" completed="0" practice="3" test="2" MTPct="-1" MTPred="-1" MT="-1" A="600" W="128" ID="2.5078" Ae_1d="0" SD_1d="0" We_1d="0" IDe_1d="0" TP_1d="0" Ae_2d="0" SD_2d="0" We_2d="0" IDe_2d="0" TP_2d="0" MTe="0" MTe_sx="0" MTe_tx="0" errors="0" errors_sx="0" errors_tx="0" errorPct="0" errorPct_sx="0" errorPct_tx="0" spatialOutliers="0" temporalOutliers="0">
+    <Trial number="1" circular="true" metronome="false" completed="false" practice="true" lastCircle="{X=960, Y=240, Radius=64}" thisCircle="{X=783.6644, Y=782.7051, Radius=64}" isoCenter="{X=960, Y=540}" MT="-1" A="600" W="128" axis="108" angle="0" ae_1d="0" dx_1d="0" ae_2d="0" dx_2d="1107.5907" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="2" circular="true" metronome="false" completed="false" practice="true" lastCircle="{X=783.6644, Y=782.7051, Radius=64}" thisCircle="{X=1245.317, Y=447.2949, Radius=64}" isoCenter="{X=960, Y=540}" MT="-1" A="600" W="128" axis="324" angle="0" ae_1d="0" dx_1d="0" ae_2d="0" dx_2d="1323.2108" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="3" circular="true" metronome="false" completed="false" practice="true" lastCircle="{X=1245.317, Y=447.2949, Radius=64}" thisCircle="{X=674.683, Y=447.2949, Radius=64}" isoCenter="{X=960, Y=540}" MT="-1" A="601" W="128" axis="180" angle="0" ae_1d="0" dx_1d="0" ae_2d="0" dx_2d="809.4874" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="4" circular="true" metronome="false" completed="false" practice="false" lastCircle="{X=674.683, Y=447.2949, Radius=64}" thisCircle="{X=1136.336, Y=782.7051, Radius=64}" isoCenter="{X=960, Y=540}" MT="-1" A="600" W="128" axis="36" angle="0" ae_1d="0" dx_1d="0" ae_2d="0" dx_2d="1379.8137" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+    <Trial number="5" circular="true" metronome="false" completed="false" practice="false" lastCircle="{X=1136.336, Y=782.7051, Radius=64}" thisCircle="{X=960, Y=240, Radius=64}" isoCenter="{X=960, Y=540}" MT="-1" A="600" W="128" axis="252" angle="0" ae_1d="0" dx_1d="0" ae_2d="0" dx_2d="989.5454" MTe="0" MTRatio="-1" entries="0" overshoots="0" error="true" spatialOutlier="true" temporalOutlier="false" start="{X=0,Y=0,Time=0}" end="{X=0,Y=0,Time=0}">
+      <Movement count="0" travel="0" duration="0" submovements="0" maxVelocity="{X=0, Y=0}" maxAcceleration="{X=0, Y=0}" maxJerk="{X=0, Y=0}" taskAxisCrossings="0" movementDirectionChanges="0" orthogonalDirectionChanges="0" movementVariability="0" movementError="0" movementOffset="0" />
+    </Trial>
+  </Condition>
+  <Fitts_Model applicable="true" N="3" MT="0">
+    <Univariate_Model applicable="true" TP_avg="0" TP_inv="NaN" regression="MT = NaN + NaN * IDe" a="NaN" b="NaN" r="NaN" />
+    <Bivariate_Model applicable="true" TP_avg="0" TP_inv="NaN" regression="MT = NaN + NaN * IDe" a="NaN" b="NaN" r="NaN" />
+  </Fitts_Model>
+  <Pointing_Error_Model applicable="false" N="3" ErrorPct="0">
+    <Univariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-NaN)/NaN) - 1)) / sqrt(2)]" regression="Observed = NaN * Predicted + NaN" m="NaN" b="NaN" r="NaN" />
+    <Bivariate_Model applicable="false" model="Predicted = 1 - erf[(2.066 * W/A * (2^((MT-NaN)/NaN) - 1)) / sqrt(2)]" regression="Observed = NaN * Predicted + NaN" m="NaN" b="NaN" r="NaN" />
+  </Pointing_Error_Model>
+</Fitts_Study>
